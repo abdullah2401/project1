@@ -267,7 +267,7 @@ header .form input[type="checkbox"]:checked + label + div.search {
 .landing {
    min-height: 100vh;
    background-color: rgb(37, 80, 105);
-   background-image: url(/images/landing.jfif);
+   background-image: url(../images/landing.jfif);
    background-size: cover;
    position: relative;
 }
