@@ -273,6 +273,7 @@ header .form input[type="search"] {
 }
 header .form input[type="checkbox"]:checked + label + div input[type="search"]{
    top: 0;
+   right:20px
 } 
 header .form input[type="checkbox"]:checked + label + div.search {
    z-index: 11111;
