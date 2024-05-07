@@ -200,6 +200,21 @@ header .countainer nav input {
    border-radius: 8px;
    border-bottom: none;
 }
+   header .form input[type="search"] {
+   width: 200px ;
+   height: 40px;
+   border: none;
+   position: relative;
+      left:0;
+   top: -45px;
+   outline: 1px solid #ffffff;
+   background-color: #c9c9c9b9;
+   border-radius: 5px ;
+   -webkit-border-radius: 5px ;
+   -moz-border-radius: 5px ;
+   -ms-border-radius: 5px ;
+   -o-border-radius: 5px ;
+   }
 }
 header nav ul li a {
    display: block;
