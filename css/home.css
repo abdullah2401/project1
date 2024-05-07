@@ -350,8 +350,8 @@ header .form input[type="checkbox"]:checked + label + div.search {
    .landing .text {
       width: 90%;
       left: 5%;
-      top: 30% ;
-      height: 80vh;
+      top: 50% ;
+      height: 70vh;
       white-space: all;
    }
    .landing .text .content p {
